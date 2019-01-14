@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">简易计算器</string>
+    <string name="num_one">1</string>
+    <string name="num_two">2</string>
+    <string name="num_three">3</string>
+    <string name="num_four">4</string>
+    <string name="num_five">5</string>
+    <string name="num_six">6</string>
+    <string name="num_seven">7</string>
+    <string name="num_eight">8</string>
+    <string name="num_nine">9</string>
+    <string name="num_zero">0</string>
+    <string name="op_plus">+</string>
+    <string name="op_minus">-</string>
+    <string name="op_multiply">×</string>
+    <string name="op_divide">÷</string>
+    <string name="op_equal">=</string>
+    <string name="AllClear">AC</string>
+</resources>
